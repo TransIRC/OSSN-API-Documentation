@@ -1,4 +1,3 @@
-````markdown name=docs/endpoints/wall_add.md
 # Wall Post Add
 
 Add a wall post for a user.
@@ -89,4 +88,3 @@ Add a wall post for a user.
 - If the request succeeds, you should get code `100` besides the payload.
 - All requests must include your API key.
 - If you have any questions, you may start a new topic on the community.
-````
